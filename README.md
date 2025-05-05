@@ -19,6 +19,19 @@ The datasets are in the shared folder on Google Drive:
 
 **Objective:** calculate the unit economics for Streamline Pro for the month of March 2023. This will help us assess the profitability and efficiency of our customer acquisition strategies and operational expenses.
 
+
+## 🛠 Tools Used
+- Python
+- Pandas
+- Google Colab
+
+
+## 📁 Files
+- `TechStream_Solutions.ipynb`: Jupyter Notebook containing all analysis and visualizations.
+- `data/`: (Optional) Folder with raw data used in analysis.
+- `README.md`: Project description and key insights.
+
+
 ## 📊 Metrics Calculated
 - **Customer Acquisition Cost (CAC)**
 - **Average Revenue Per User (ARPU)**
@@ -27,15 +40,15 @@ The datasets are in the shared folder on Google Drive:
 - **Customer Lifetime Value (LTV)**
 - **LTV / CAC ratio**
 
-## 🛠 Tools Used
-- Python
-- Pandas
-- Google Colab
+| Metric                     | Value          |                   
+|----------------------------|----------------|
+| CAC                        | 506.794258     |             
+| ARPU                       | 284.359589     |                  
+| COGS                       | 17340.000000   |  
+| Gross Margin (%)           | 79.116737      |    
+| LTV                        | 2182.060523    |
+| LTV/CAC                    | 4.305614       | 
 
-## 📁 Files
-- `TechStream_Solutions.ipynb`: Jupyter Notebook containing all analysis and visualizations.
-- `data/`: (Optional) Folder with raw data used in analysis.
-- `README.md`: Project description and key insights.
 
 ## 🧠 Conclusions & Recommendations
 **✅ Conclusion:**
